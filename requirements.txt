@@ -113,7 +113,7 @@ sklearn==0.0
 smart-open==5.2.1
 sortedcontainers==2.4.0
 soupsieve==2.3.2.post1
-spacy==3.5.4
+spacy==3.0.9
 # SpeechRecognition==3.8.1
 # srsly==2.4.4
 stack-data==0.3.0
