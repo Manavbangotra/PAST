@@ -115,8 +115,6 @@ smart-open==5.2.1
 sortedcontainers==2.4.0
 soupsieve==2.3.2.post1
 # spacy==3.4.1
-spacy-legacy==3.0.9
-spacy-loggers==1.0.3
 # SpeechRecognition==3.8.1
 # srsly==2.4.4
 stack-data==0.3.0
