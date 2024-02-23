@@ -119,7 +119,7 @@ spacy==3.5.4
 stack-data==0.3.0
 terminado==0.15.0
 textract==1.6.5
-thinc==8.1.0
+thinc==8.1.8
 threadpoolctl==3.1.0
 tinycss2==1.1.1
 tinysegmenter==0.3
