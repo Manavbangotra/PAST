@@ -137,7 +137,7 @@ wasabi==0.10.1
 wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==2.2.1
-wordcloud==1.8.2.2
+wordcloud
 xlrd==1.2.0
 XlsxWriter==3.0.3
 zipp==3.8.1
