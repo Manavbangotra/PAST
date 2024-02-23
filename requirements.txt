@@ -55,7 +55,6 @@ jupyter-core==4.11.1
 jupyterlab-pygments==0.2.2
 kiwisolver==1.4.4
 langcodes==3.3.0
-locationtagger==0.0.1
 lxml==4.9.1
 mammoth==1.4.19
 MarkupSafe==2.1.1
