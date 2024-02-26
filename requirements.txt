@@ -35,6 +35,7 @@ filelock==3.7.1
 flash==1.0.3
 Flask
 fonttools==4.34.4
+gunicorn==20.0.4
 idna==3.3
 IMAPClient==2.1.0
 importlib-metadata==4.12.0
