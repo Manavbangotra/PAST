@@ -13,6 +13,7 @@ import nltk
 nltk.download('stopwords')
 nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
+nltk.download('wordnet')
 
 #used directories for data, downloading and uploading files 
 UPLOAD_FOLDER = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'files/resumes/')
