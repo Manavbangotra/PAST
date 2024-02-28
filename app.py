@@ -11,6 +11,7 @@ import uuid
 from flask import Flask, flash, request, redirect, url_for, render_template, send_file
 import nltk
 nltk.download('stopwords')
+nltk.download('punkt')
 
 #used directories for data, downloading and uploading files 
 UPLOAD_FOLDER = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'files/resumes/')
